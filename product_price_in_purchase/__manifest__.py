@@ -8,6 +8,8 @@
     'images': ['static/description/icon.png'],
     'category': 'Purchases',
     'version': '16.0.0.0.1',
+    'support': 'trinanda357@gmail.com',
+    'license': 'AGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': ['purchase'],
