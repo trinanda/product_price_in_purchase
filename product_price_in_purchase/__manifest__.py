@@ -7,7 +7,7 @@
     'website': "http://www.github.com/trinanda",
     'images': ['static/description/icon.png'],
     'category': 'Purchases',
-    'version': '16.0.0.0.1',
+    'version': '15.0.0.0.1',
     'support': 'trinanda357@gmail.com',
     'license': 'AGPL-3',
 
